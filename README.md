@@ -7,10 +7,15 @@ Hello! Prior to the class, please download and install Arduino and purchase this
 - Arduino kit from [Ebay $40(including shipping)](https://www.ebay.com/itm/iduino-Projects-Kit-for-Arduino-Uno-Program-Learning-Electronics-Starter-Kit/333436519412?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
 - Download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
 
-![foo](https://github.com/nktnktnkt/Electronics-for-Inventors-Arduino-Prototyping/blob/master/pics/arduino_download.JPG)
+#### This is a [cool kit](https://www.ebay.com/itm/iduino-Projects-Kit-for-Arduino-Uno-Program-Learning-Electronics-Starter-Kit/333436519412?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) we found to use for the class.
 ![foo](https://github.com/nktnktnkt/Electronics-for-Inventors-Arduino-Prototyping/blob/master/pics/arduino_kit.JPG)
+#### This is the current version of Arduino from the [website](https://www.arduino.cc/en/Main/Software)
+![foo](https://github.com/nktnktnkt/Electronics-for-Inventors-Arduino-Prototyping/blob/master/pics/arduino_download2.JPG)
 
-#### Introduction to Arduino & downloading IDE if you haven’t done so already
+
+## Sylabus
+
+#### Introduction to Arduino
 Get blink working on internal LED
 Blink at different rates
 
