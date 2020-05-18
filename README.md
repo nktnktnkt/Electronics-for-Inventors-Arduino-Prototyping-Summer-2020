@@ -1,39 +1,40 @@
 # Electronics-for-Inventors-Arduino-Prototyping
 
-4 weeks - Tuesdays and Thursdays
+### 4 weeks - Tuesdays and Thursdays July 7th - July 30th
 
-Starting Tuesday July 7th
-Ending Thursday July 30th
- 
-Week 1 - 1st Class 
+## Requirements
+Hello! Prior to the class, please download and install Arduino and purchase this ARduino Kit
+- Arduino kit from [Ebay $40(including shipping)](https://www.ebay.com/itm/iduino-Projects-Kit-for-Arduino-Uno-Program-Learning-Electronics-Starter-Kit/333436519412?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+
+Week 1 - 1st Class
 Introduction to Arduino & downloading IDE if you haven’t done so already
 Get blink working on internal LED
 Blink at different rates
- 
- 
+
+
 Week 1 - 2nd Class
 Breadboard, blink LED on pin 13
 PWM LED on pin xxx 3,5,6,9,10,11
 Modify example code
 Multiple LED Blinking/patterns/sequence
 Continuing to modify example code
- 
- 
+
+
 Week 2 - 1st Class
 Introduction to light sensor
 Install light sensor into breadboard
 Read serial of light sensor output
 Trigger LED based on light sensor output
 Calibration of light sensor
- 
+
 Week 2 - 2nd Class
 Introduction to potentiometer
 Install pot into breadboard
 Read serial output
 Trigger LED based on pot
 calibrate/optimize LED output based on POT position
- 
- 
+
+
 Week 3 - 1st Class
 Range finder
 Get file from github and load onto arduino (20 minutes)
@@ -41,13 +42,13 @@ Install range finder onto breadboard
 Read serial output
 Install mini speaker
 Adjust frequency output
- 
+
 Week 3 - 2nd Class
 Reading the remote control
 Get file from github
 Add LEDs to turn ON/off based on remote control
 Add piezo speaker outputs based on remote control
- 
+
 Week 4 - 1st Class
 Introduction to motors
 Servo
@@ -55,8 +56,8 @@ Example sketch from github
 DC motor
 Add a transistor
 Stepper motor
- 
- 
+
+
 Week 4 - 2nd Class
 joystick/servo
 Get file from github
