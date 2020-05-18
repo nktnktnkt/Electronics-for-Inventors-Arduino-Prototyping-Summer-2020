@@ -5,6 +5,9 @@
 ## Requirements
 Hello! Prior to the class, please download and install Arduino and purchase this ARduino Kit
 - Arduino kit from [Ebay $40(including shipping)](https://www.ebay.com/itm/iduino-Projects-Kit-for-Arduino-Uno-Program-Learning-Electronics-Starter-Kit/333436519412?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+- Download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
+
+![foo]()
 
 Week 1 - 1st Class
 Introduction to Arduino & downloading IDE if you haven’t done so already
