@@ -16,8 +16,9 @@ Hello! Prior to the class, please download and install Arduino and purchase this
 ## Sylabus
 
 #### Introduction to Arduino
+Overview of Arduions, Prototyping Inventions <br/>
 Get blink working on internal LED <br/>
-Blink at different rates
+- Blink at different rates
 
 
 #### Week 1 - 2nd Class
