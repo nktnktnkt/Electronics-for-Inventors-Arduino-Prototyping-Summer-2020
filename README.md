@@ -15,6 +15,8 @@ Hello! Prior to the class, please download and install Arduino and purchase this
 
 ## Sylabus
 
+#### [Class Slides](https://docs.google.com/presentation/d/1TDGcABmd5R9CsD5FAoP4Zys5q44NCDNbZ_oyMslH-Tk/edit?usp=sharing)
+
 #### Introduction to Arduino
 Overview of Arduions, Prototyping Inventions <br/>
 Get blink working on internal LED <br/>
