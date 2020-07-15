@@ -1,6 +1,6 @@
-int Red = 9;
+int Red = 11;
 int Green = 10;
-int Blue = 11;
+int Blue = 9;
 int POT = A0; // analog input for potentiometer
 int ButtonRed = 4;
 int ButtonGreen = 3;
