@@ -4,7 +4,7 @@ int modulator = A1;
 int lightLow = 400; //set the lowest value the light sensor (photocell) outputs
 int lightHigh = 900; // set the highest value the light sensor outputs.
 int button = 2;
-int buzzer = 3;
+int buzzer = 11;
 
 void setup() {
   Serial.begin(57600); //must set set this baud rate in the serial monitor as well for propper function
@@ -24,6 +24,7 @@ void loop() {
   int lightValue = analogRead(lightSensor);
   Serial.println(lightValue); //use this reading to determine lightHigh and lightLow values
   int melody = map(lightValue, lightLow , lightHigh, 0, 10);
+  melody = constrain(melody, 0, 10);
 
   //read the modulator pot to modify the PWM state of the audio signal, creating a FM (frequency modulation) effect on the sound.
   int modValue = analogRead(modulator);
