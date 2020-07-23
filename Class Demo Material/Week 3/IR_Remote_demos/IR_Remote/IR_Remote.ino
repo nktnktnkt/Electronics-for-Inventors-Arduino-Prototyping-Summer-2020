@@ -1,7 +1,7 @@
 #include <IRremote.h>
 
 int redPin = 6, greenPin = 5, bluePin = 3;
-int recvPin = 7;
+int recvPin = 2;
 float counter = 0;
 bool oscillation = false;
 IRrecv irrecv(recvPin);
