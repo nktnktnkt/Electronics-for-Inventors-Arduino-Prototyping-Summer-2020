@@ -19,9 +19,9 @@ void loop() {
   int potReading = analogRead(pot);
   int motorDirection;
   if(potReading >= 512){
-    motorDirection = 64;
+    motorDirection = -64;
   }else{
-    motorDirection = - 64;
+    motorDirection = 64;
   }
   Serial.println(motorDirection);
 
