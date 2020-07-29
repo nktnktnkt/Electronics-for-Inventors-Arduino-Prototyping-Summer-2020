@@ -1,7 +1,6 @@
-  
 #include <IRremote.h>
 
-int recvPin = 10;
+int recvPin = 2;
 
 IRrecv irrecv(recvPin);
 decode_results results;
