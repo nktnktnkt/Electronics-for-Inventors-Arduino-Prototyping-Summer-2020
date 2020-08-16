@@ -1,4 +1,4 @@
-# Electronics-for-Inventors-Arduino-Prototyping
+# Electronics-for-Inventors-Arduino-Prototyping (Summer 2020)
 
 ### 4 weeks - Tuesdays and Thursdays July 7th - July 30th
 
